@@ -1,7 +1,7 @@
 https://en.wikipedia.org/wiki/Assignment_problem
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.linear_sum_assignment.html
 
-order of lists is important (eg, student 1 before student 2). in case of draw the preferences of the first list are preferred
+order of lists is important (eg, student 1 before student 2). in case of draw the preferences of the first student are preferred
 student1    [3, 2, 1] -> student 1 prefers topic 3, then 2 and lastly the first topic (C > B > A)
 
 example 1:
